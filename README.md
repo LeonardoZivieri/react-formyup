@@ -8,23 +8,22 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)](#)
-[![GitHub Issues](https://img.shields.io/github/issues/girishsawant999/react-package-template.svg)](https://github.com/girishsawant999/react-package-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/girishsawant999/react-package-template.svg)](https://github.com/girishsawant999/react-package-template/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/LeonardoZivieri/react-formyup.svg)](https://github.com/LeonardoZivieri/react-formyup/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/LeonardoZivieri/react-formyup.svg)](https://github.com/LeonardoZivieri/react-formyup/pulls)
 
-[![Build ](https://img.shields.io/github/workflow/status/girishsawant999/react-package-template/CI/main)](https://github.com/girishsawant999/react-package-template/actions)
+[![Build ](https://img.shields.io/github/workflow/status/LeonardoZivieri/react-formyup/CI/main)](https://github.com/LeonardoZivieri/react-formyup/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<p align="center"> A template code repo for creating react component or JS <a href="https://www.npmjs.com" rel="noopener">npm packages</a>. Just follow few steps and you can start publishing your code on npm.
+<p align="center"> A form generator that uses Formik + Yup for generate beautiful forms
     <br> 
 </p>
 
 ## 📝 Table of Contents
 
-- [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
@@ -32,23 +31,21 @@
 - [Contributing](./.github/CONTRIBUTING.md)
 - [Authors](#authors)
 
-## 🧐 About <a name = "about"></a>
-
-So repo consist of boilerplate code to create a npm package without doing creating any new projet.
-
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [publish](#deployment) notes on how to publish the package on npm.
+In construction
 
 ### Prerequisites
 
-As you already know about JS, you better know the prerequisites, Node JS and NPM.
+React
+Formik
+Yup
 
 ### Cloning & Setup
 
 A step by step series of examples that tell you how to get a clone and complete setup.
 
-<a href="https://github.com/girishsawant999/react-package-template/generate">Click here</a> to use this template to create a new repo for package.
+<a href="https://github.com/LeonardoZivieri/react-formyup/generate">Click here</a> to use this template to create a new repo for package.
 
 Then once repo is created clone it. Now run following commands in project directory.
 
@@ -110,6 +107,7 @@ you will get message your package has been succesfully deployed to npm.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@girishsawant999](https://github.com/girishsawant999) - Idea & Initial work
+- [@LeonardoZivieri](https://github.com/LeonardoZivieri) - Idea & Initial work
+- [@girishsawant999](https://github.com/girishsawant999) - Creator of [react-package-template](https://github.com/girishsawant999/react-package-template)
 
-See also the list of [contributors](https://github.com/girishsawant999/react-package-template/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/LeonardoZivieri/react-formyup/contributors) who participated in this project.
